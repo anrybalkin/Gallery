@@ -10,4 +10,4 @@ Stack:
   React-Native-Image-Zoom-Viewer
   React-Navigation/Native-Stack
   
-Add your apikey in file ListPhotos.js for deploy
+Add your apikey in file components/pages/ListPhotos.js for deploy
